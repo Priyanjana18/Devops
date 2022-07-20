@@ -1,2 +1,3 @@
+changed in master
 newline
 bfhfehhello
